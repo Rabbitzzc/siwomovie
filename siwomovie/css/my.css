@@ -1,0 +1,45 @@
+    .infobox {
+        margin-top: 5%;
+    }
+    
+    #myname {
+        width: 120px;
+        height: 30px;
+        resize: none;
+        overflow: auto;
+        border: none;
+        outline: none;
+        color: #999;
+        margin-bottom: 10px;
+        /**解决蓝色边框问题*/
+    }
+    
+    #commentlist {
+        margin-top: 40px;
+    }
+    
+    .ptext {
+        display: inline-block;
+        margin-left: 35px;
+    }
+    
+    .pimg h4 {
+        display: inline-block;
+        color: lightseagreen;
+    }
+    
+    .pimg {
+        margin-right: 10px;
+    }
+    
+    .pimg img {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin-right: 5px;
+    }
+    
+    .grid_2 a img {
+        width: 250px;
+        height: 230px;
+    }

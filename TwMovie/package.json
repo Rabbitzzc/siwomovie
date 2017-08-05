@@ -1,0 +1,26 @@
+{
+  "name": "tw-movie",
+  "version": "1.0.0",
+  "description": "'思特电影'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mysql": "^2.14.1",
+    "orm": "^3.2.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liust15/SWapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liust15/SWapi/issues"
+  },
+  "homepage": "https://github.com/liust15/SWapi#readme"
+}
